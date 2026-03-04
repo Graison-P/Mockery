@@ -11,7 +11,14 @@
 	"version": "v1.0.0",
 	"developer": "GvYoutube",
 	"description": "A mod that mocks you when you die.",
+	"links": {
+		"source": "https://github.com/Graison-P/Mockery"	
+	},
+	"issues": {
+		"url": "https://github.com/Graiso-P/Mockery/issues"
+	},
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
-	}
+	},
+	"tags":["joke", "gameplay"]
 }

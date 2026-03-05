@@ -1,6 +1,6 @@
 #include <Geode/Geode.hpp>
 #include <Geode/modify/PlayerObject.hpp>
-#include <cstdlib> // For rand()
+#include <cstdlib> // For rand(). Why do I need to include something for a simple function??
 
 using namespace geode::prelude;
 

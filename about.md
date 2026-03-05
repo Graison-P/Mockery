@@ -1,8 +1,8 @@
 # Mockery
-The mod that laughs at you when you die.
+The mod that <cy>laughs<c> at you when you <cr>die</c>.
 
 
-The premise is simple- crash = you get mocked
+The premise is simple- <cr>crash = you get mocked</cr>
 
 
 Thanks to me myself and I for making the logo.

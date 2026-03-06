@@ -13,7 +13,7 @@ class $modify(PlayerObject) {
         int soundID = std::rand() % 5 + 1;
         
         // construct file name
-        std::string soundFile = std::to_string(soundID) + ".ogg"_spr;
+        std::string soundFile = "resources" + std::to_string(soundID) + ".ogg"_spr;
 
         // play file into engine
         FMODAudioEngine::sharedEngine()->playEffect(soundFile);
